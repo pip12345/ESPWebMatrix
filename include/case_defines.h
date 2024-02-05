@@ -1,0 +1,12 @@
+#ifndef __CASE_DEFINES_H__
+#define __CASE_DEFINES_H__
+
+#define CASE_SCROLL_COLORS_RGB 0
+#define CASE_SCROLL_COLOR_SINGLE 1
+#define CASE_FLASH 2
+#define CASE_DEBUG 3
+#define CASE_SHOW_VOLTAGE 4
+#define CASE_LOW_BATTERY 5
+#define CASE_DEEP_SLEEP 6
+
+#endif // __CASE_DEFINES_H__
